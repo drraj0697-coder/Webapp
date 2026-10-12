@@ -1,0 +1,19 @@
+{
+    "subjectName": "pathology",
+    "lectures": [
+        {
+            "title": "Pathology",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/FJsSP1_yaThBwIceVvVZiQ?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/UyQHR8ibzD_BocsmdKeI1w?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/FJsSP1_yaThBwIceVvVZiQ?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/UyQHR8ibzD_BocsmdKeI1w?type=download",
+            "thumbnailUrl": "https://raw.githubusercontent.com/afrahtafreeh/thumbimages/main/pathology/Pathology_8711b3a1.jpg"
+        },
+        {
+            "title": "Pathology.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/CLF1jgOV7uybe130s3hotg?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/wnKF4Uu9lKmyIXjd4EjnxQ?type=download"
+        }
+    ],
+    "skipped": []
+}
