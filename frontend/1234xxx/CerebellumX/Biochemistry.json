@@ -1,0 +1,35 @@
+{
+    "subjectName": "biochemistry",
+    "lectures": [
+        {
+            "title": "Biochemistry Part 1",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/P8c1VdQW-omAHI1x92NUeA?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/OIJf3_a5M4B0ypoWSSPqFQ?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/P8c1VdQW-omAHI1x92NUeA?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/OIJf3_a5M4B0ypoWSSPqFQ?type=download",
+            "thumbnailUrl": "https://raw.githubusercontent.com/afrahtafreeh/thumbimages/main/biochemistry/Biochemistry_Part_1_e55f8284.jpg"
+        },
+        {
+            "title": "Biochemistry Part 2",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/_JsdnbDlDKg46JRkp2Qu7A?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/_aBpQgyLDmv2nl9LZc3k2Q?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/_JsdnbDlDKg46JRkp2Qu7A?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/_aBpQgyLDmv2nl9LZc3k2Q?type=download",
+            "thumbnailUrl": "https://raw.githubusercontent.com/afrahtafreeh/thumbimages/main/biochemistry/Biochemistry_Part_2_7ae114bc.jpg"
+        },
+        {
+            "title": "Biochemistry Part 3",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/qLxcgXId6vego7j4GjU4sQ?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/QB0KTvnfGhIVN2i45JwVkg?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/qLxcgXId6vego7j4GjU4sQ?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/QB0KTvnfGhIVN2i45JwVkg?type=download",
+            "thumbnailUrl": "https://raw.githubusercontent.com/afrahtafreeh/thumbimages/main/biochemistry/Biochemistry_Part_3_897726e6.jpg"
+        },
+        {
+            "title": "Biochemistry.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/1OJ6-2_RL2b2YbCOshd7Gw?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/IYV-jZJx8gr4Rzw0TBsRBQ?type=download"
+        }
+    ],
+    "skipped": []
+}
