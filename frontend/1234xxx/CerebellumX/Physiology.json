@@ -1,0 +1,35 @@
+{
+    "subjectName": "physiology",
+    "lectures": [
+        {
+            "title": "Physiology Part 1",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/3BrQ_bQpF19F1rpON2aO3A?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/AB1wxicBdU-17WtJbOqGCg?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/3BrQ_bQpF19F1rpON2aO3A?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/AB1wxicBdU-17WtJbOqGCg?type=download",
+            "thumbnailUrl": "https://raw.githubusercontent.com/afrahtafreeh/thumbimages/main/physiology/Physiology_Part_1_9ea7291f.jpg"
+        },
+        {
+            "title": "Physiology Part 2",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/pH8oEZ7H6ore69c8OX6ELg?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/2cRJF1qkRKwapz_Mu5VSHw?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/pH8oEZ7H6ore69c8OX6ELg?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/2cRJF1qkRKwapz_Mu5VSHw?type=download",
+            "thumbnailUrl": "https://raw.githubusercontent.com/afrahtafreeh/thumbimages/main/physiology/Physiology_Part_2_12c47d2e.jpg"
+        },
+        {
+            "title": "Physiology Part 3",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/mb9MaBOw9uYhfqOOEQjaRA?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/n3S1CGYMMS81-kIaAbZUlg?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/mb9MaBOw9uYhfqOOEQjaRA?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/n3S1CGYMMS81-kIaAbZUlg?type=download",
+            "thumbnailUrl": "https://raw.githubusercontent.com/afrahtafreeh/thumbimages/main/physiology/Physiology_Part_3_c7043913.jpg"
+        },
+        {
+            "title": "Physiology.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/VyKEHRfkqOQlMU85M2Tk0g?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/EsLkWVAMlIHBkYQEyqpNOw?type=download"
+        }
+    ],
+    "skipped": []
+}
