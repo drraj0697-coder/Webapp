@@ -1,0 +1,19 @@
+{
+    "subjectName": "radiology",
+    "lectures": [
+        {
+            "title": "Radiology",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/h8ooUbaV_u6GclpuJ8Em9A?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/DLLRbIqPiCxb6RSfTrrrIQ?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/h8ooUbaV_u6GclpuJ8Em9A?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/DLLRbIqPiCxb6RSfTrrrIQ?type=download",
+            "thumbnailUrl": "https://raw.githubusercontent.com/afrahtafreeh/thumbimages/main/radiology/Radiology_9d49fc7a.jpg"
+        },
+        {
+            "title": "Radiology.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/omvOh9ViZcQxZ6fisevSkg?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/ulcASAFflgAz5Bud1F0kRw?type=download"
+        }
+    ],
+    "skipped": []
+}
