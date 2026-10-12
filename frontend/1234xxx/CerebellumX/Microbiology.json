@@ -1,0 +1,43 @@
+{
+    "subjectName": "microbiology",
+    "lectures": [
+        {
+            "title": "Microbiology Part 1.1",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/pQ72TLB8ZLVyklEqle4_rw?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/5c9aSqRSTHx_bNvl0fMohQ?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/pQ72TLB8ZLVyklEqle4_rw?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/5c9aSqRSTHx_bNvl0fMohQ?type=download",
+            "thumbnailUrl": "https://raw.githubusercontent.com/afrahtafreeh/thumbimages/main/microbiology/Microbiology_Part_1.1_06838150.jpg"
+        },
+        {
+            "title": "Microbiology Part 1.2",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/nSB06C4SIz5HtHFXzlLOCg?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/Im9myKaSAobDFexaro6Z5Q?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/nSB06C4SIz5HtHFXzlLOCg?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/Im9myKaSAobDFexaro6Z5Q?type=download",
+            "thumbnailUrl": "https://raw.githubusercontent.com/afrahtafreeh/thumbimages/main/microbiology/Microbiology_Part_1.2_520b43e7.jpg"
+        },
+        {
+            "title": "Microbiology Part 2.1",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/1gC42vPnWD9KbZ49P_RNuA?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/kQak_u0v1lqvMN9RwtVtnw?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/1gC42vPnWD9KbZ49P_RNuA?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/kQak_u0v1lqvMN9RwtVtnw?type=download",
+            "thumbnailUrl": "https://raw.githubusercontent.com/afrahtafreeh/thumbimages/main/microbiology/Microbiology_Part_2.1_6bbff7b6.jpg"
+        },
+        {
+            "title": "Microbiology Part 2.2",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/UmVPPRCvAGiEVE4B1lHi1g?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/8Gq8iqFONOEl3PQE8FUiRA?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/UmVPPRCvAGiEVE4B1lHi1g?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/8Gq8iqFONOEl3PQE8FUiRA?type=download",
+            "thumbnailUrl": "https://raw.githubusercontent.com/afrahtafreeh/thumbimages/main/microbiology/Microbiology_Part_2.2_cf8b5b0e.jpg"
+        },
+        {
+            "title": "Microbiology P1.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/nw2UaMAVYr7gC2QsbtcQ2A?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/s-cjmdwLXqz9hdYFG5Bh4A?type=download"
+        }
+    ],
+    "skipped": []
+}
