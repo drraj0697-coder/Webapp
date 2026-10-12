@@ -1,0 +1,43 @@
+{
+    "subjectName": "psm",
+    "lectures": [
+        {
+            "title": "PSM Part 1",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/Uw0mpYxCZuAWbs8KCXlWcQ?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/4iEGOyWFJ1b02EXgHid57w?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/Uw0mpYxCZuAWbs8KCXlWcQ?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/4iEGOyWFJ1b02EXgHid57w?type=download",
+            "thumbnailUrl": "https://raw.githubusercontent.com/afrahtafreeh/thumbimages/main/psm/PSM_Part_1_de6735f3.jpg"
+        },
+        {
+            "title": "PSM Part 3",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/oiuS3J6pAqBDRMtz9KvR4w?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/7PCuTGtRutgRTNQ4hOttpw?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/oiuS3J6pAqBDRMtz9KvR4w?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/7PCuTGtRutgRTNQ4hOttpw?type=download",
+            "thumbnailUrl": "https://raw.githubusercontent.com/afrahtafreeh/thumbimages/main/psm/PSM_Part_3_0dec7819.jpg"
+        },
+        {
+            "title": "PSM Part 4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/AOpacipCVKx_0EjOsCwyFg?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/c54saCsgsqNPYl_KEJhUnA?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/AOpacipCVKx_0EjOsCwyFg?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/c54saCsgsqNPYl_KEJhUnA?type=download",
+            "thumbnailUrl": "https://raw.githubusercontent.com/afrahtafreeh/thumbimages/main/psm/PSM_Part_4_f7a1c3bb.jpg"
+        },
+        {
+            "title": "PSM Part 5",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/yEc3aT03e6tKeehbjrz5fg?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/UtR3TKf0lnumg_PYt01_Zw?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/yEc3aT03e6tKeehbjrz5fg?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/UtR3TKf0lnumg_PYt01_Zw?type=download",
+            "thumbnailUrl": "https://raw.githubusercontent.com/afrahtafreeh/thumbimages/main/psm/PSM_Part_5_35e603c3.jpg"
+        },
+        {
+            "title": "PSM.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/KB-PRA_qPUBXgRbU1ivH8Q?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/HvhKjxpAjx-w7FXeZGZj1g?type=download"
+        }
+    ],
+    "skipped": []
+}
