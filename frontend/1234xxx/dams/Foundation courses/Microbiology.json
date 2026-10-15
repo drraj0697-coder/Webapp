@@ -1,0 +1,798 @@
+{
+    "subjectName": "microbiology",
+    "lectures": [
+        {
+            "title": "1. History of Microbiology.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/DCuDhzhdBVjsogfh3P2bvg?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/hsf6vO-bgNQcsdBVS9hqzQ?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/DCuDhzhdBVjsogfh3P2bvg?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/hsf6vO-bgNQcsdBVS9hqzQ?type=download"
+        },
+        {
+            "title": "1. History of Microbiology.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/CDPu8loCKyVfSt-KN6rFbA?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/Ht-Sfs3BilnZKBubl19hQA?type=download"
+        },
+        {
+            "title": "2. Bacterial Morphology.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/wTQBpx5FwE8ltzdK6Crv9Q?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/o6-jAN5Prn9z6EpRx58y1Q?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/wTQBpx5FwE8ltzdK6Crv9Q?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/o6-jAN5Prn9z6EpRx58y1Q?type=download"
+        },
+        {
+            "title": "2. Bacterial Morphology.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/dE8WmYqM4-vnXFPiMyu0aQ?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/L2Ud8-_pIjVIZl6UZebdtQ?type=download"
+        },
+        {
+            "title": "3. Microscopy and Stains.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/h-x1fhRI0EWNnl4mfBgk-g?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/4eVF3RmfLradaflF7c_Yuw?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/h-x1fhRI0EWNnl4mfBgk-g?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/4eVF3RmfLradaflF7c_Yuw?type=download"
+        },
+        {
+            "title": "3. Microscopy and Stains.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/18y4eIfgPaXjFpZaHZo2dw?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/J0biapFqCj_gkSH3R0hGHw?type=download"
+        },
+        {
+            "title": "4. Culture Media and Methods.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/FyF6i6ofZ1zu0CQBl-Cmfw?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/GfU0cnpnZQRbGOwTlRgDXQ?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/FyF6i6ofZ1zu0CQBl-Cmfw?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/GfU0cnpnZQRbGOwTlRgDXQ?type=download"
+        },
+        {
+            "title": "4. Culture Media and Methods.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/dqSGXR2wCbwLqVb1rroXww?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/4PmUcp4Kt-yt-I9L8tkk5g?type=download"
+        },
+        {
+            "title": "5. Biochemical Reactions and RTPCR.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/xidVHXqhh8R4z6uDcjkeoQ?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/4l4REnLckP1StAOz21fXig?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/xidVHXqhh8R4z6uDcjkeoQ?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/4l4REnLckP1StAOz21fXig?type=download"
+        },
+        {
+            "title": "5. Biochemical Reactions and RTPCR.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/NIMRRY3mAa_bGl5Fgr7zmg?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/0LBYcB8MjNntCuwQKIXWzA?type=download"
+        },
+        {
+            "title": "6. Epidemiology and Pathogenicity of ID.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/UPgTvCNEsBp82f6qkwNvMA?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/kchsIC96sleBgw8HxSyXdg?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/UPgTvCNEsBp82f6qkwNvMA?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/kchsIC96sleBgw8HxSyXdg?type=download"
+        },
+        {
+            "title": "6. Epidemiology and Pathogenicity of ID.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/j7pH-a8lXHB8xIo7SG1UIQ?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/GV-WHoaxEkFSMukBgK1WdQ?type=download"
+        },
+        {
+            "title": "7. Sterilization and Disinfection.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/ziNbCENhNpklJJGUFQeeiA?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/8vr93hsjMt-eJKFFTcHrLg?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/ziNbCENhNpklJJGUFQeeiA?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/8vr93hsjMt-eJKFFTcHrLg?type=download"
+        },
+        {
+            "title": "7. Sterilization and Disinfection.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/ga-YK-oWl294963XYpdS7Q?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/J6XDm2Ja4YMpS04LWsxENA?type=download"
+        },
+        {
+            "title": "8. Bacterial Genetics.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/0W5uCDHTN3m514hc9eegZg?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/UrINLgK7CqAWQiOEkfc12w?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/0W5uCDHTN3m514hc9eegZg?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/UrINLgK7CqAWQiOEkfc12w?type=download"
+        },
+        {
+            "title": "8. Bacterial Genetics.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/NRZRE-JOvhoYxlhRaJdQRw?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/eBnsQKRpKLQPa4_XApcDdA?type=download"
+        },
+        {
+            "title": "9. Antibiotics and AMSP.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/28OOBukYoHGBwO4889RusQ?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/mwHQIT_Zdshl6I2CBX6BbQ?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/28OOBukYoHGBwO4889RusQ?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/mwHQIT_Zdshl6I2CBX6BbQ?type=download"
+        },
+        {
+            "title": "9. Antibiotics and AMSP.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/Rcuk4yCK4U8Eq8XNimC8qg?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/IYaqpTbF2-Nv9WKcxfYmxQ?type=download"
+        },
+        {
+            "title": "10. Basic Immunology.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/OSmGoQLlvL-LEB9rPq-fFw?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/lVttwIFGGH1zDxPAB1JG-w?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/OSmGoQLlvL-LEB9rPq-fFw?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/lVttwIFGGH1zDxPAB1JG-w?type=download"
+        },
+        {
+            "title": "10. Basic Immunology.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/RSUMK5EtmbXzB1_hvZMiWA?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/KSmMSqjAbefBjNToL2zOKA?type=download"
+        },
+        {
+            "title": "11 Ag, Ab, Ag-Ab Reactions.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/4Ugf5lofjCzRrly5FWfkPQ?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/RL4XXKZxjUNsU_Zb1pDBbQ?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/4Ugf5lofjCzRrly5FWfkPQ?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/RL4XXKZxjUNsU_Zb1pDBbQ?type=download"
+        },
+        {
+            "title": "11 Ag, Ab, Ag-Ab Reactions.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/B0bHjGVFo_IO_kOPpMs8LA?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/bevVD0BdCWBVepYnvbDgKQ?type=download"
+        },
+        {
+            "title": "12. Immune Response.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/t9VPtEYqNfIt_4X0mSkFpA?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/j4eb2RBXp7ZUhuB5syUO3g?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/t9VPtEYqNfIt_4X0mSkFpA?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/j4eb2RBXp7ZUhuB5syUO3g?type=download"
+        },
+        {
+            "title": "12. Immune Response.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/INH1Qtrzk4UNNZivHyC_AA?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/9NuGLCBGgGx-G014xU86zQ?type=download"
+        },
+        {
+            "title": "13 Immune Disorders.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/EtYtrcg77Hvbdb5FdZXZQg?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/5FFnd3Ny7nSnBpgof8hhQg?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/EtYtrcg77Hvbdb5FdZXZQg?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/5FFnd3Ny7nSnBpgof8hhQg?type=download"
+        },
+        {
+            "title": "13 Immune Disorders.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/y1_TqmaXOq-4tiK669k2Ig?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/VmMvW_TO0beLg-Wf-yyELA?type=download"
+        },
+        {
+            "title": "14. Complements.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/VKLrG5W8ZeFMXVjtEhCX_A?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/iKuMOa8dEY-p94gCT8mdLQ?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/VKLrG5W8ZeFMXVjtEhCX_A?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/iKuMOa8dEY-p94gCT8mdLQ?type=download"
+        },
+        {
+            "title": "14. Complements.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/FtaRlor65jvau8-gMlJATg?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/-oTNYJcVuEDrjJ-zp_9zkA?type=download"
+        },
+        {
+            "title": "15. Staphylococcus.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/DVzH24StphRrGWrslCIkOA?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/F4jujDA9qA77YQYGAb2X3w?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/DVzH24StphRrGWrslCIkOA?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/F4jujDA9qA77YQYGAb2X3w?type=download"
+        },
+        {
+            "title": "15. Staphylococcus.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/y7c5JRAKxQRzI4ClRZEdCA?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/27HaR6yDQr3VlEz6tcJmcw?type=download"
+        },
+        {
+            "title": "16. Streptococcus.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/eR5EE6vjK6Q042sKtO-pRg?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/RmFvT8ZYrxDUV2icCE-uTQ?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/eR5EE6vjK6Q042sKtO-pRg?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/RmFvT8ZYrxDUV2icCE-uTQ?type=download"
+        },
+        {
+            "title": "16. Streptococcus.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/-o_HNh_Y-HIa7Y8j1lYf2Q?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/BkNQSBHjvpOUFvZvL8A0CA?type=download"
+        },
+        {
+            "title": "17. Neisseria.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/aLVHSqrtXctNuNpcjoU4yQ?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/czGb5Zttv5li6Fc4q-m2uA?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/aLVHSqrtXctNuNpcjoU4yQ?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/czGb5Zttv5li6Fc4q-m2uA?type=download"
+        },
+        {
+            "title": "17. Neisseria.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/jcAXmZC4z5qh2rXo2CvHmA?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/-pQlp6L3QfO-r-d0z54OdA?type=download"
+        },
+        {
+            "title": "18. Bacillus.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/u6RZPKEup-llOSg2biJkwA?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/oL5fTciZGpTsyDdoutTlnw?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/u6RZPKEup-llOSg2biJkwA?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/oL5fTciZGpTsyDdoutTlnw?type=download"
+        },
+        {
+            "title": "18. Bacillus.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/VD_UlzGbaXbrof0hZhOybg?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/iHk1k0fCkMXmH0Jbpr_bDA?type=download"
+        },
+        {
+            "title": "19. Clostridia.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/FHiU-u-F0u79mWCoOG2CfQ?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/1KXPKoImWqSnR9A03dUuag?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/FHiU-u-F0u79mWCoOG2CfQ?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/1KXPKoImWqSnR9A03dUuag?type=download"
+        },
+        {
+            "title": "19. Clostridia.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/qDXi-zUXdkTFDlNeKn7W3g?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/3KkSKXNRvHpepsiKWQK2Zw?type=download"
+        },
+        {
+            "title": "20. Corynebacterium.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/P5OqKzqoeSVYo0Y8YGuHSA?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/a8w9CpsXKZJv7AcnB2w6OA?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/P5OqKzqoeSVYo0Y8YGuHSA?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/a8w9CpsXKZJv7AcnB2w6OA?type=download"
+        },
+        {
+            "title": "20. Corynebacterium.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/A4LHbLxVm1jVLvwssiLCKg?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/ZiTqXQTyweiCFTke-c0d9g?type=download"
+        },
+        {
+            "title": "21. Mycobacteria.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/2rAgcHX7X3LQhbKm--lDKw?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/UaUgzUh9CHLv3rOiRmE5Pg?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/2rAgcHX7X3LQhbKm--lDKw?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/UaUgzUh9CHLv3rOiRmE5Pg?type=download"
+        },
+        {
+            "title": "21. Mycobacteria.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/J3rYucz-K0LSLx8YGKHEmQ?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/mJpoTYdAsrZgVz4u8v7lbg?type=download"
+        },
+        {
+            "title": "22. Actinomyces, Nocardia and Listeria.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/d5KcPr5zTduumHyYfdtRmQ?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/mpRXqs7Sw7fWqQiTnwKb-w?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/d5KcPr5zTduumHyYfdtRmQ?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/mpRXqs7Sw7fWqQiTnwKb-w?type=download"
+        },
+        {
+            "title": "22. Actinomyces, Nocardia and Listeria.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/sPKXQ3_YWqpsUrzT5Hn5TA?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/_BQXpsjGWJWgK2qrxsROTw?type=download"
+        },
+        {
+            "title": "23. Pseudomonas, Bordetella, Brucella and Legionella.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/zRitThivfckSl3kK1FX2rg?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/QsKRy2_bkQhNaKEPeixCJw?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/zRitThivfckSl3kK1FX2rg?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/QsKRy2_bkQhNaKEPeixCJw?type=download"
+        },
+        {
+            "title": "23. Pseudomonas, Bordetella, Brucella and Legionella.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/rde5XhTzG3vi0j1Oerm0UA?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/3IVT3s3dhtaNXHKg1wI1GA?type=download"
+        },
+        {
+            "title": "24. Helicobacter and Campylobacter.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/cn11OfF8SkTAb-ZG-Vgo6A?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/XFnXswSH3382RQgq-N2xaA?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/cn11OfF8SkTAb-ZG-Vgo6A?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/XFnXswSH3382RQgq-N2xaA?type=download"
+        },
+        {
+            "title": "24. Helicobacter and Campylobacter.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/-t9hg7qlWUmBF7KXKqsZsg?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/T44pg0IKi6kx8KkV1Sly1A?type=download"
+        },
+        {
+            "title": "25. Vibrio and Hemophilus.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/sv1m2vyeuooA1uxG6yVD5Q?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/0FtRX2iJ5K9NHy4ob3F9hA?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/sv1m2vyeuooA1uxG6yVD5Q?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/0FtRX2iJ5K9NHy4ob3F9hA?type=download"
+        },
+        {
+            "title": "25. Vibrio and Hemophilus.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/JI5kTSWOI5i9jlxKZcHK-g?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/XWcw4rlkWAPf1qsgsn2iMA?type=download"
+        },
+        {
+            "title": "26. Enterobactericiae.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/e9hjGGGO8ptSwI0-7q7WQw?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/CnVJ4_p4_ouR2oMIgMW_kQ?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/e9hjGGGO8ptSwI0-7q7WQw?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/CnVJ4_p4_ouR2oMIgMW_kQ?type=download"
+        },
+        {
+            "title": "26. Enterobactericiae.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/-HoqQ6_TmJ_H_v9xnO04zQ?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/72J51dZcDloNJX82lYuPZQ?type=download"
+        },
+        {
+            "title": "27. Spirochetes.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/5wxhtB27iw6JIissi6UQdw?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/CzkrIy-ODUzcxzoGQ2ndqA?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/5wxhtB27iw6JIissi6UQdw?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/CzkrIy-ODUzcxzoGQ2ndqA?type=download"
+        },
+        {
+            "title": "27. Spirochetes.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/ZGoErxx19RLA-TTEp7eRfQ?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/fqLbfzS4pcjh6os0tqJKpA?type=download"
+        },
+        {
+            "title": "28. Chlamydia and Rickettsia.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/J4KzQjAU5CNsV1GDwTJ2rA?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/6jv3aIe2szpoz-Kc-YjQog?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/J4KzQjAU5CNsV1GDwTJ2rA?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/6jv3aIe2szpoz-Kc-YjQog?type=download"
+        },
+        {
+            "title": "28. Chlamydia and Rickettsia.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/p1sKMGVHqS2gxsLk6jmceQ?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/hIx8OmBM5v1DCynIPy_VSA?type=download"
+        },
+        {
+            "title": "29. Miscellaneous Bacteria.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/TfSOgd1VHInNww_pExa6Uw?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/QQly1EuTai4UPlHQwKi4yw?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/TfSOgd1VHInNww_pExa6Uw?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/QQly1EuTai4UPlHQwKi4yw?type=download"
+        },
+        {
+            "title": "29. Miscellaneous Bacteria.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/0czW109t2gx9_df1TiTMsQ?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/P2QvY-xYYpclr_rTDoneDg?type=download"
+        },
+        {
+            "title": "30. General Virology.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/CJYBQWDSNW98crlKmVX4Lg?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/ODcPxfgcDq68ulTEq4EBJA?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/CJYBQWDSNW98crlKmVX4Lg?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/ODcPxfgcDq68ulTEq4EBJA?type=download"
+        },
+        {
+            "title": "30. General Virology.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/AedQtPKDyJdTwTDtCUyJ9Q?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/oADYocLLchSI4vQmuBboig?type=download"
+        },
+        {
+            "title": "31. Herpes.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/XGG53HImKyMPSXEeN3iBTw?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/Odm3czGAZdoH5SZ0EXZbEA?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/XGG53HImKyMPSXEeN3iBTw?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/Odm3czGAZdoH5SZ0EXZbEA?type=download"
+        },
+        {
+            "title": "31. Herpes.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/q8eC0gz_x2fIbn3FFMpFmA?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/omaWIgwF_0tXjf0D_XnORg?type=download"
+        },
+        {
+            "title": "32. Other DNA Viruses.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/cuMh3Rw7l7Fjy22zOO90Ag?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/1V8NJ074B6OSdLDulcAzDw?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/cuMh3Rw7l7Fjy22zOO90Ag?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/1V8NJ074B6OSdLDulcAzDw?type=download"
+        },
+        {
+            "title": "32. Other DNA Viruses.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/jriCPTrmV53HC6xTeqyAFQ?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/K2QRQiyJE6XtY7EJC8SmOw?type=download"
+        },
+        {
+            "title": "33. Influenza and Paramyxoviruses.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/kJYedHQ33LaiBpO5GGXE-w?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/F1DcxKUcw-ixS-WVUZ1ieg?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/kJYedHQ33LaiBpO5GGXE-w?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/F1DcxKUcw-ixS-WVUZ1ieg?type=download"
+        },
+        {
+            "title": "33. Influenza and Paramyxoviruses.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/TB7sZI3xpVbmRzbhdOZoVA?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/pNKucayyyE2gtbnwS5ffFQ?type=download"
+        },
+        {
+            "title": "34. Picorna Virus.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/wZocqir1BBnIij7hcpgKTQ?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/jBeftgRuAumXmSw20tPWfQ?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/wZocqir1BBnIij7hcpgKTQ?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/jBeftgRuAumXmSw20tPWfQ?type=download"
+        },
+        {
+            "title": "34. Picorna Virus.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/CC1B4z90b9NRnrm_ek0iBg?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/0UwSAMW5t8EtjjbXP3jyag?type=download"
+        },
+        {
+            "title": "35. Rabies and Arboviruses.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/5q8rUc-hDHsNUVpEp8dy4w?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/fjstaBuUXA6AxatLzetIWg?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/5q8rUc-hDHsNUVpEp8dy4w?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/fjstaBuUXA6AxatLzetIWg?type=download"
+        },
+        {
+            "title": "35. Rabies and Arboviruses.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/NbZWjVwqH4nTc2psAuOj1A?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/CKNVNAZStoer1ua8vNUuuQ?type=download"
+        },
+        {
+            "title": "36. HIV.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/ZRTdEluyY9a28iO5MQetYg?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/36UMw42KuVmOJ43u8da2_g?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/ZRTdEluyY9a28iO5MQetYg?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/36UMw42KuVmOJ43u8da2_g?type=download"
+        },
+        {
+            "title": "36. HIV.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/nKVdKXfHK8nFdrdJ-V7USQ?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/tJrp4ZPaHOXDYZa7aGVvmQ?type=download"
+        },
+        {
+            "title": "37. Rubella and Emerging Viral Infections.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/PZnOOIWsCY0-DzUaLvLJQQ?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/mo0kZYnNkcNrqtkXaNYv9g?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/PZnOOIWsCY0-DzUaLvLJQQ?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/mo0kZYnNkcNrqtkXaNYv9g?type=download"
+        },
+        {
+            "title": "37. Rubella and Emerging Viral Infections.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/6ZLr83xMDiJ_jpF8p0ZFnw?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/j7F305xD8dperH44UTvZUQ?type=download"
+        },
+        {
+            "title": "38. Amoeba and Flagellates.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/qguJ6EyfnHhd3HqQk-Hhyw?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/AN5FztTf-HaZwhCdEKyNCA?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/qguJ6EyfnHhd3HqQk-Hhyw?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/AN5FztTf-HaZwhCdEKyNCA?type=download"
+        },
+        {
+            "title": "38. Amoeba and Flagellates.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/PymN3eBw2J2G9HKkzimeLQ?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/Q_AiaT9RyFeiU-QgNk3gAg?type=download"
+        },
+        {
+            "title": "39. Plasmodium, Babesia and Coccidian Parasites.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/pKlnjb1wIT232ggDuTNzFw?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/BO-_LN24FRi9MOh-T6hsAg?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/pKlnjb1wIT232ggDuTNzFw?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/BO-_LN24FRi9MOh-T6hsAg?type=download"
+        },
+        {
+            "title": "39. Plasmodium, Babesia and Coccidian Parasites.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/ZnXjtprCFFBM3WKxnrOpFw?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/JV4TT0mnMSLeNTx4A6kGEw?type=download"
+        },
+        {
+            "title": "40. Cestodes.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/C_I6HCYYnNoh3-D-WcwijQ?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/MUI1tWEzuRR_OCXbr34aqw?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/C_I6HCYYnNoh3-D-WcwijQ?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/MUI1tWEzuRR_OCXbr34aqw?type=download"
+        },
+        {
+            "title": "40. Cestodes.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/Ky9XH7aoJzyXYUu2v4yNFg?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/VN6FYG9lT-PJen90DD4NMQ?type=download"
+        },
+        {
+            "title": "41. Trematodes.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/WMc4qcKWuk3GZSSLX_SEKw?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/V6J9BPUhDhE49_0bzy6qcQ?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/WMc4qcKWuk3GZSSLX_SEKw?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/V6J9BPUhDhE49_0bzy6qcQ?type=download"
+        },
+        {
+            "title": "41. Trematodes.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/RA0ny9d7K6QWVJZocZFXqw?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/uKWy4xm2YiYzuQa6IXYufQ?type=download"
+        },
+        {
+            "title": "42. Nematodes.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/tRxOKkdLl4aqdQmw3d1sAQ?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/zciTJvnqBqS8A7xm-kTZFA?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/tRxOKkdLl4aqdQmw3d1sAQ?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/zciTJvnqBqS8A7xm-kTZFA?type=download"
+        },
+        {
+            "title": "42. Nematodes.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/le_YzFp3M7iBC7eslNdoAA?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/BkO6e74Ci6ODUnZyWq7LSQ?type=download"
+        },
+        {
+            "title": "43. Normal Flora.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/mDD8_Iyistof6wN2ZtCeHg?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/yNOknJOSkn12ZYF6LC8x7A?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/mDD8_Iyistof6wN2ZtCeHg?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/yNOknJOSkn12ZYF6LC8x7A?type=download"
+        },
+        {
+            "title": "43. Normal Flora.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/0nP-pDgsK-k5g8-QKephTg?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/WOqXzFAqkhABwUWHKHb1JA?type=download"
+        },
+        {
+            "title": "44. Acute Rheumatic Fever.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/E7GyfmJT3Pokkt5juoEW9Q?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/Z0ZYf3prihVlCahj98Bbkg?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/E7GyfmJT3Pokkt5juoEW9Q?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/Z0ZYf3prihVlCahj98Bbkg?type=download"
+        },
+        {
+            "title": "44. Acute Rheumatic Fever.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/CDnaEnyydraEzGAZDixByA?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/hdSQLLuSjsVkE6_M6G2bLw?type=download"
+        },
+        {
+            "title": "45. Infective Endocarditis.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/E3qM9E-BewqfZA3ElvauJQ?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/_ml-9Z7-0ds7JecDkaGXPA?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/E3qM9E-BewqfZA3ElvauJQ?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/_ml-9Z7-0ds7JecDkaGXPA?type=download"
+        },
+        {
+            "title": "45. Infective Endocarditis.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/wQKhUixwphlBW7-6ZcQPuQ?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/-14md8EM42CJ7-qHIJ2cRQ?type=download"
+        },
+        {
+            "title": "46. Anaemia in Infections.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/K99iM7-TLvcjNvBw5UnSyA?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/tgCxUEBDJ54_yFSM89q3rw?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/K99iM7-TLvcjNvBw5UnSyA?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/tgCxUEBDJ54_yFSM89q3rw?type=download"
+        },
+        {
+            "title": "46. Anaemia in Infections.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/Xzhut0bV51I0lGnoL5uT_w?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/_glgItWEN54VflayzgGNaQ?type=download"
+        },
+        {
+            "title": "47. Opportunistic Infections in HIV.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/ElYIBaGo3TnpXojU3S4row?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/1h1T2iDzvYaI0UIzfW1ejA?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/ElYIBaGo3TnpXojU3S4row?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/1h1T2iDzvYaI0UIzfW1ejA?type=download"
+        },
+        {
+            "title": "47. Opportunistic Infections in HIV.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/PIr6YR-2WGxOhIjJGm8cDQ?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/bUv0-YUOBbAErsX6oGN1Ng?type=download"
+        },
+        {
+            "title": "48. Diarrhoea and Dysentry.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/UoFPwfjUP77FsRLvwsuTtw?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/OeW87vV7z9t4fZI4ayZEuQ?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/UoFPwfjUP77FsRLvwsuTtw?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/OeW87vV7z9t4fZI4ayZEuQ?type=download"
+        },
+        {
+            "title": "48. Diarrhoea and Dysentry.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/X24SVygAgeuBop4q-hEQnw?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/etjzT1zC4ScmslSLikppDQ?type=download"
+        },
+        {
+            "title": "49. FUO.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/2-OK6jDzzuX1GQ9AYC4Rxg?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/6Bghprf8TzIa82AsRfX5wg?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/2-OK6jDzzuX1GQ9AYC4Rxg?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/6Bghprf8TzIa82AsRfX5wg?type=download"
+        },
+        {
+            "title": "49. FUO.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/sT6TB4WQHqHjBf3_oWQZ4A?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/9I00gCff_8YObdFKit2Pkw?type=download"
+        },
+        {
+            "title": "50. Enteric Fever and APD.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/oP_uxspgyKren3jqgONlBA?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/A1WolJIX7gQ4X6ORGll7Cw?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/oP_uxspgyKren3jqgONlBA?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/A1WolJIX7gQ4X6ORGll7Cw?type=download"
+        },
+        {
+            "title": "50. Enteric Fever and APD.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/cSVMK-YjWqlaTj_4dKx6nA?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/7mFpqI2dLjJifM7r5eIQqA?type=download"
+        },
+        {
+            "title": "51. Food Poisoning.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/MTYNkAZTlxzgRkttnuEIcA?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/nNP0hnXTHyCOSITVLAyzaw?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/MTYNkAZTlxzgRkttnuEIcA?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/nNP0hnXTHyCOSITVLAyzaw?type=download"
+        },
+        {
+            "title": "51. Food Poisoning.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/q6mZeWTS_tKb0Tn2LjwjHQ?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/OZjDHzlcDU7jbKTVnEH69Q?type=download"
+        },
+        {
+            "title": "52. Hepatitis.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/vS0lQBss0S8W664gKwcN9g?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/2gFm3oL6IC3xFccayLuMig?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/vS0lQBss0S8W664gKwcN9g?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/2gFm3oL6IC3xFccayLuMig?type=download"
+        },
+        {
+            "title": "52. Hepatitis.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/S0fE1gqqv7fHqvL9yKhcrw?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/HCdX4PvoiXCdFG0lgWBATg?type=download"
+        },
+        {
+            "title": "53. Bone and Joint Infections.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/oG8JSDGsqTDB1so9IKycxA?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/itSu6MlD5rWAqNeYqm18Zw?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/oG8JSDGsqTDB1so9IKycxA?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/itSu6MlD5rWAqNeYqm18Zw?type=download"
+        },
+        {
+            "title": "53. Bone and Joint Infections.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/tzsUQ0O_2GK1R9xZL35yxg?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/dJS0HcEi8GmmM6tAX3wSCA?type=download"
+        },
+        {
+            "title": "54. Skin and Soft Tissue Infections.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/Ha2LeJhOOwq5CsXKm0mLaw?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/B8FW606IG4rptJQL0IY8dw?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/Ha2LeJhOOwq5CsXKm0mLaw?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/B8FW606IG4rptJQL0IY8dw?type=download"
+        },
+        {
+            "title": "54. Skin and Soft Tissue Infections.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/RfrRk7DoXdrK2trBVaBLUg?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/zpbj6GdLW9Fsyq-dCQMszg?type=download"
+        },
+        {
+            "title": "55. Meningitis.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/L376Elk-5rK1AyRD5_24vg?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/oTZePmvByakTKTNQc0eDUg?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/L376Elk-5rK1AyRD5_24vg?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/oTZePmvByakTKTNQc0eDUg?type=download"
+        },
+        {
+            "title": "55. Meningitis.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/m8y7LksApr6MzrpLFRltBA?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/l7fjxKidbsCOQs36ifclnQ?type=download"
+        },
+        {
+            "title": "56. Encephalitis.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/Xp9k7qaQSHBH8O0-9YbIjA?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/CUiKxQs5t3GLHvcBZn9CMQ?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/Xp9k7qaQSHBH8O0-9YbIjA?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/CUiKxQs5t3GLHvcBZn9CMQ?type=download"
+        },
+        {
+            "title": "56. Encephalitis.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/gRWkuDzAXGsA5G7NxZJ4Iw?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/ROwlShxqYxjh_QArWORrzg?type=download"
+        },
+        {
+            "title": "57. Respiratory Tract Infections.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/mJnIzvIeN0u9Hl0nDpEBsw?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/2Y2J2z-XFY5TWZ7rwj2t7w?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/mJnIzvIeN0u9Hl0nDpEBsw?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/2Y2J2z-XFY5TWZ7rwj2t7w?type=download"
+        },
+        {
+            "title": "57. Respiratory Tract Infections.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/AI9iL-6DbprKFft0OrVqIA?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/FVjWdaF202kcAukIE4Y64w?type=download"
+        },
+        {
+            "title": "58. Genitourinary infections and STI.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/KKO-KrBaNpOYuknAPfOhDg?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/syS1khnXFHADfQJ-2UchnA?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/KKO-KrBaNpOYuknAPfOhDg?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/syS1khnXFHADfQJ-2UchnA?type=download"
+        },
+        {
+            "title": "58. Genitourinary infections and STI.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/b8EZqcpgmRoadV30ft9kXw?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/o_hEX-0Bkm_d3WKlhA4i6A?type=download"
+        },
+        {
+            "title": "59. Urinary Tract Infections.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/WWCCaojfdbEF-zqf36vJGA?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/4e--lZ3fKN0HVNG_tG9fjw?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/WWCCaojfdbEF-zqf36vJGA?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/4e--lZ3fKN0HVNG_tG9fjw?type=download"
+        },
+        {
+            "title": "59. Urinary Tract Infections.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/PKAdTewWiMZB6zBQqXxLig?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/tXqkLKfnnQL1mxgk39fIDw?type=download"
+        },
+        {
+            "title": "60. Zoonotic and Vector Borne Disease.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/WFk0imA1u8jukPvavSWfIw?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/GU0skrLzE_UyrJYtdEN3cQ?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/WFk0imA1u8jukPvavSWfIw?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/GU0skrLzE_UyrJYtdEN3cQ?type=download"
+        },
+        {
+            "title": "60. Zoonotic and Vector Borne Disease.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/Yioe3juE7_DlU-zuIPsDzw?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/Y13zFLjRPldjyuV8YbXY9g?type=download"
+        },
+        {
+            "title": "1. Introduction.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/gbjfIiLRjVz5kIqJKhT7gA?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/oOG4zMskmsZuRGMhWBwVDQ?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/gbjfIiLRjVz5kIqJKhT7gA?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/oOG4zMskmsZuRGMhWBwVDQ?type=download"
+        },
+        {
+            "title": "1. Introduction.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/rKbDqycTSc6DjYYSsznGsA?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/sjR9Ezl4zWEO6e8rPdNqWA?type=download"
+        },
+        {
+            "title": "2. Gram Stain.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/WY7ZU-JgzBgH-gA36jmwaQ?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/HNqT168oU4QQc-gIsD368w?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/WY7ZU-JgzBgH-gA36jmwaQ?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/HNqT168oU4QQc-gIsD368w?type=download"
+        },
+        {
+            "title": "2. Gram Stain.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/BJlrUafS4dvpvldf2VEW2w?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/oTwI25sZbbhkEvLkZCrtBg?type=download"
+        },
+        {
+            "title": "3. Acid Fast Staining.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/h8Rv5AVm_JueYj6Wb2CdUw?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/bkSmgdWKknRi8G3fJl2xvw?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/h8Rv5AVm_JueYj6Wb2CdUw?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/bkSmgdWKknRi8G3fJl2xvw?type=download"
+        },
+        {
+            "title": "3. Acid Fast Staining.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/vSuaz-g2uHDQdZ-SloH-Ng?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/J7KNE_cNj2chdM-xjEjAuw?type=download"
+        },
+        {
+            "title": "4. Spotters.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/atVNqGIfhNfuVFUL7Kping?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/YBucYU26EBxocMNRQleuyg?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/atVNqGIfhNfuVFUL7Kping?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/YBucYU26EBxocMNRQleuyg?type=download"
+        },
+        {
+            "title": "4. Spotters.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/HBlCNyDpvZm5cwMjSR6_kA?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/fm1xGrJg8xHyC5zdzfNKbg?type=download"
+        },
+        {
+            "title": "5. Bacteriology Exercise.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/ZWjBIb7q9AazoH1-LScEhg?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/cnoK05JQ9iewnDXoExaUZw?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/ZWjBIb7q9AazoH1-LScEhg?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/cnoK05JQ9iewnDXoExaUZw?type=download"
+        },
+        {
+            "title": "5. Bacteriology Exercise.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/1d4PAmgNNftFwuPBhNsogQ?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/zOLb7Z53dw2HLdQIjZN-Iw?type=download"
+        },
+        {
+            "title": "6. Virology Exercise.mp4",
+            "streamingUrl": "https://web.afrahtafreeh.site/prepare/TM4xIBYXVypYKtNItp_qmg?type=stream",
+            "streamingUrlx": "https://webx.afrahtafreeh.site/prepare/jYLXXatAP66kJLfP6G8pQw?type=stream",
+            "downloadUrl": "https://web.afrahtafreeh.site/prepare/TM4xIBYXVypYKtNItp_qmg?type=download",
+            "downloadUrlx": "https://webx.afrahtafreeh.site/prepare/jYLXXatAP66kJLfP6G8pQw?type=download"
+        },
+        {
+            "title": "6. Virology Exercise.pdf",
+            "pdf_downloadUrl": "https://web.afrahtafreeh.site/prepare/5B4vB0qEejmYcBBMBhdCpg?type=download",
+            "pdf_downloadUrlx": "https://webx.afrahtafreeh.site/prepare/e67NwnACq7tAxyeH5mxJtg?type=download"
+        }
+    ],
+    "skipped": []
+}
